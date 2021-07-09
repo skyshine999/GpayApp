@@ -1,0 +1,2 @@
+com/app/paymentapp/BuildConfig.java
+ com.app.paymentapp.BuildConfig
